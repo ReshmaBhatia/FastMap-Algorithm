@@ -1,4 +1,3 @@
-# Group Members: 1) Reshma Bhatia (8959806814)   2) Shiv Prathik Velagala (2654019972)
 import copy
 import math
 
